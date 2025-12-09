@@ -14,7 +14,7 @@ Dive into real insurance data to uncover low-risk segments and build smart model
 **Data**
 
 - **Source period:** February 2014 — August 2015
-- **Primary file:** `data/insurance_claims_data.csv`
+- **Primary file:** `data/MachineLearningRating_v3.txt`
 - **Key columns (selected):** UnderwrittenCoverID, PolicyID, TransactionMonth, IsVATRegistered, Citizenship, LegalType, Title, Language, Bank, AccountType, MaritalStatus, Gender, Country, Province, PostalCode, MainCrestaZone, SubCrestaZone, ItemType, Mmcode, VehicleType, RegistrationYear, Make, Model, Cylinders, Cubiccapacity, Kilowatts, Bodytype, NumberOfDoors, VehicleIntroDate, CustomValueEstimate, AlarmImmobiliser, TrackingDevice, CapitalOutstanding, NewVehicle, WrittenOff, Rebuilt, Converted, CrossBorder, NumberOfVehiclesInFleet, SumInsured, TermFrequency, CalculatedPremiumPerTerm, ExcessSelected, CoverCategory, CoverType, CoverGroup, Section, Product, StatutoryClass, StatutoryRiskType, TotalPremium, TotalClaims
 
 **Learning Outcomes**
